@@ -17,7 +17,6 @@
 			</div>
 		</div>
 	</div>
-<h2>Rubel Mahamud | Developer</h2>
 	
 </body>
 </html>
